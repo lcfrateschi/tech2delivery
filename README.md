@@ -11,7 +11,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
-  
+  <img src="https://github.com/lcfrateschi/tech2delivery/assets/47075313/6fdcff3a-72ca-407d-b312-9becb7214fe3">
 
   </a>
 
