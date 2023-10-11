@@ -3,6 +3,7 @@
 <!--
 
 
+![tech2delivery](https://github.com/lcfrateschi/tech2delivery/assets/47075313/6fdcff3a-72ca-407d-b312-9becb7214fe3)
 
 
 
@@ -10,8 +11,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
-    ![tech2delivery](https://github.com/lcfrateschi/tech2delivery/assets/47075313/55651ab0-c875-40cb-8773-4b4014476bd1)
-
+  
 
   </a>
 
