@@ -10,7 +10,8 @@
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
-    ![tech2delivery](https://github.com/lcfrateschi/tech2delivery/assets/47075313/80fbbc5e-c36a-43d7-a4aa-20eb5bfa13e3)
+    ![tech2delivery](https://github.com/lcfrateschi/tech2delivery/assets/47075313/55651ab0-c875-40cb-8773-4b4014476bd1)
+
 
   </a>
 
