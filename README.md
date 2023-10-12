@@ -15,8 +15,8 @@
 
   </a>
 
-<h3 align="center">tech2delivery app Android e IOS</h3>
-<h2 align="center">Demo do App em produção do Supermercados Nova Ponte</h2>
+<h2 align="center">Tech2Delivery app Android e IOS</h2>
+<h2 align="center">Demo do App em produção dos Supermercados Nova Ponte</h2>
 
 
 
