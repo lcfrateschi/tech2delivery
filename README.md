@@ -16,7 +16,7 @@
   </a>
 
 <h2 align="center">Tech2Delivery Apps Android e IOS</h2>
-<h2 align="center">Demo do App em produção dos Supermercados Nova Ponte</h2>
+<h2 align="center">Demo do App venda e delivery de produtos/serviços gerais em produção dos Supermercados Nova Ponte</h2>
 
 
 
